@@ -1,5 +1,9 @@
+@font-face {
+  font-family: "Gilroy-Black";
+  src: url("fonts/Gilroy-Black.ttf") format("truetype");
+}
 body {
-  font-family: "Arial", sans-serif;
+  font-family: "Gilroy-Black", sans-serif;
 }
 
 #wrapper {
